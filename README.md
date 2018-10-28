@@ -1,0 +1,1 @@
+# serverless-aws-typescript-sample
